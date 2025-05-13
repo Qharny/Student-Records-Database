@@ -1,0 +1,17 @@
+# Student Records Database
+
+## Project Description
+
+This project implements a **Student Records Database** using MySQL. The database manages student records, courses, and enrollments with proper relationships and constraints. It includes:
+- Tables for Students, Courses, Professors, and Enrollments.
+- **1-to-Many** and **Many-to-Many** relationships.
+- Foreign keys and various constraints such as **NOT NULL**, **UNIQUE**, and **CASCADE** actions.
+
+## How to Run/Setup the Project
+
+To set up this project, you need MySQL installed. Follow these steps:
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/Student-Records-Database.git
+   cd Student-Records-Database
